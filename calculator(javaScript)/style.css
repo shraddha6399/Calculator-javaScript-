@@ -1,0 +1,40 @@
+.container{
+    text-align: center;
+    margin-top: auto;
+    display:inline-block;
+    background-color: black;
+    padding: 20px;
+    border:5px solid rgb(243, 160, 7);
+  
+}
+table{
+    margin:auto;
+}
+input{
+   font-size: 30px;
+   height: 50px;
+   width: 350px;
+   margin-bottom: 5%;
+   background-color:black;
+   color: white;
+   border: 1px solid white;
+}
+button{
+    font-size: 20px;
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+    background: darkgray;
+    color:white;
+    border: none;  
+   }
+
+button:hover{
+    background: darker;
+}
+.orange{
+    background-color: rgb(243, 160, 7) ;
+}
+.darkgrey{
+    background-color: rgb(71, 66, 66);
+}
